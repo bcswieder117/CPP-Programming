@@ -1,1 +1,1 @@
-The goal of this folder is to show my journey to FAANG companies and other potential employers my ability to program. Many of the programs you see in this folder are small programs found from YouTube, Instagram, and old classes.
+The goal of this folder is to show my programming journey to FAANG companies and other potential employers; moreover, to specifically demonstrate my ability to program. Many of the programs you see in this folder are small programs found from YouTube, Instagram, and old classes.
